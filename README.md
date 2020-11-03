@@ -1,5 +1,5 @@
 # bikesharing-predictions
-Predicting number of bike-sharing users on a given day
+Predicting number of bike-sharing users on a given day - Udacity project
 
 The repository uses numpy and pandas to accurately predict daily bike rental ridership in a month. The code is commented to guide you through all the steps to building a deep neural network at a very basic level, without any libraries built specifically for this purpose. 
 
@@ -11,3 +11,4 @@ The repository uses numpy and pandas to accurately predict daily bike rental rid
 
 
 ![data_plt](https://github.com/coddiw0mple/bikesharing-predictions/blob/main/assets/error_plt.png?raw=true)
+
